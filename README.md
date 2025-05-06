@@ -1,4 +1,4 @@
-# Custom Page Sizes Proposal for WebAssembly
+# More Array Constructors Proposal for WebAssembly
 
 This repository is a clone of
 [`WebAssembly/spec`](https://github.com/WebAssembly/spec/). It is meant for
